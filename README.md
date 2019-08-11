@@ -23,3 +23,7 @@ Therefore, the time now is 1:05am. So the program should print 1 65 - 1 full hou
 
 
 8)[Write a program to calculate the distance between two points.To find the distance between two points (x1,y1) and (x2,y2), all that you need to do is use the coordinates of these ordered pairs and apply some common sense. Begin with the most simplest formula and then incrementally arrive at the correct formula as you solve the test cases.](Day008.md)
+
+
+
+9)[Given a three-digit number. Find the sum of its digits.](Day009.md)
