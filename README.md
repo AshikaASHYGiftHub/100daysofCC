@@ -20,3 +20,6 @@ Therefore, the time now is 1:05am. So the program should print 1 65 - 1 full hou
 
 
 7)[Given two timestamps of the same day: a number of hours, minutes and seconds for both of the timestamps. The moment of the first timestamp happened before the moment of the second one. Calculate how many seconds passed between them.](Day007.md)
+
+
+8)[Write a program to calculate the distance between two points.To find the distance between two points (x1,y1) and (x2,y2), all that you need to do is use the coordinates of these ordered pairs and apply some common sense. Begin with the most simplest formula and then incrementally arrive at the correct formula as you solve the test cases.](Day008.md)
