@@ -50,3 +50,10 @@ If the number is a multiple of both 3 and 5, it prints "JugsMugs".
 Otherwise, it prints the number.](Day015.md)
 
 
+16)[Read two inputs. 
+The first input is a digit. 
+The second input is a number. 
+Is the digit present in the number? If yes, return True.
+If no, return False.](Day016.md)
+
+
