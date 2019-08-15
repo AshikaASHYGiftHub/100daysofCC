@@ -78,4 +78,7 @@ For every number in the given range,  If the number is a multiple of 3, or it co
 
 21)[Write a program that receives a number on the input.It also should receive another value 'rev'  (either 0 or 1) on the input.  If the number is a multiple of 3, or it contains digit 3, it prints "Jugs".  If the number is a multiple of 5, or it contains digit 5, it prints "Mugs". If the number is a multiple of 7, or it contains digit 7, it prints "Pugs".If the number is a multiple of both 3 and 5, it prints "JugsMugs".also if number contains 3 and 5, it prints "JugsMugs" If the number is a multiple of both 3 and 7, it prints "JugsPugs". also if number contains 3 and 7, it prints "JugsPugs"If the number is a multiple of 3, 5 and 7, it prints "JugsMugPugs". also if number contains 3, 5 and 7, it prints "JugsMugsPugs"Otherwise, it prints the number.](Day021.md)
 
+22)[In mathematics, the factorial of an integer n, denoted by n! is the following product:n! = 1 × 2 × … × nFor the given integer n calculate the value 1! + 2! + 3! + ... + n!Try to discover the solution that uses only one for-loop. And don't use math module in this exercise.](Day022.md)
+
+
 
