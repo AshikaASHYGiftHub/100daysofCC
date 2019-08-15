@@ -35,3 +35,6 @@ Therefore, the time now is 1:05am. So the program should print 1 65 - 1 full hou
 
 12)[Given a month - an integer from 1 to 12, print the number of days in it in the year 2017.](Day012.md)
 
+
+13)[Given three integers, print the least of them.](Day013.md)
+
