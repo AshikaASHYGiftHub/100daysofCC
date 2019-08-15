@@ -68,9 +68,9 @@ Otherwise, it prints the number.](Day017.md)
 
 
 18)[Write a program that receives a number on the input.
- - If the number is a multiple of 3, or it contains digit 3, it prints "Jugs". 
- - If the number is a multiple of 5, or it contains digit 5, it prints "Mugs".
- - If the number is a multiple of 7, or it contains digit 7, it prints "Pugs".
+- If the number is a multiple of 3, or it contains digit 3, it prints "Jugs". 
+- If the number is a multiple of 5, or it contains digit 5, it prints "Mugs".
+- If the number is a multiple of 7, or it contains digit 7, it prints "Pugs".
 Otherwise, it prints the number.](Day018.md)
 
 
