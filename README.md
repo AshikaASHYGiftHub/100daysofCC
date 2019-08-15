@@ -80,5 +80,8 @@ For every number in the given range,  If the number is a multiple of 3, or it co
 
 22)[In mathematics, the factorial of an integer n, denoted by n! is the following product:n! = 1 × 2 × … × nFor the given integer n calculate the value 1! + 2! + 3! + ... + n!Try to discover the solution that uses only one for-loop. And don't use math module in this exercise.](Day022.md)
 
+23)[N numbers are given in the input. Read them and print their sum.The first line of input contains the integer N, which is the number of integers to follow. Each of the next N lines contains one integer. Print the sum of these N integers.](Day023.md)
+
+
 
 
