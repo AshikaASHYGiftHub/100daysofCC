@@ -84,6 +84,8 @@ For every number in the given range,  If the number is a multiple of 3, or it co
 
 24)[For the given integer N calculate the following sum:1³ + 2³ + ... + N³](Day024.md)
 
+25)[For given integer n ≤ 9 print a ladder of n steps. The k-th step consists of the integers from 1 to k without spaces between them.To do that, you can use the sep and end arguments for the function print().](Day025.md)
+
 
 
 
