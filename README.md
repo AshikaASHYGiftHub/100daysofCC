@@ -82,6 +82,9 @@ For every number in the given range,  If the number is a multiple of 3, or it co
 
 23)[N numbers are given in the input. Read them and print their sum.The first line of input contains the integer N, which is the number of integers to follow. Each of the next N lines contains one integer. Print the sum of these N integers.](Day023.md)
 
+24)[For the given integer N calculate the following sum:1³ + 2³ + ... + N³](Day024.md)
+
+
 
 
 
