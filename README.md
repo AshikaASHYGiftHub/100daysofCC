@@ -98,6 +98,7 @@ For every number in the given range,  If the number is a multiple of 3, or it co
 
 31)[Given a string in which the letter h occurs at least twice. Remove from that string the first and the last occurrence of the letter h, as well as all the characters between them.](Day031.md)
 
+32)[Given a string in which the letter h occurs at least twice, replace every occurrence of the letter h by the letter H, except for the first and the last ones.](Day032.md)
 
 
 
