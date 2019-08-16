@@ -100,7 +100,7 @@ For every number in the given range,  If the number is a multiple of 3, or it co
 
 32)[Given a string in which the letter h occurs at least twice, replace every occurrence of the letter h by the letter H, except for the first and the last ones.](Day032.md)
 
-
+33)[Given a string in which the letter h occurs at least twice, reverse the sequence of characters enclosed between the first and last occurrences of it.](Day033.md)
 
 
 
