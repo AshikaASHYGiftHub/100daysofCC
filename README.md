@@ -96,6 +96,9 @@ For every number in the given range,  If the number is a multiple of 3, or it co
 
 30)[Blockly Maze Completion After you complete the 10th level, what is the JavaScript code you got? Cut and paste and assign it to the variable level_10_code.How many blocks did you have left? Assign it to the variable remaining_blocks.](Day030.md)
 
+31)[Given a string in which the letter h occurs at least twice. Remove from that string the first and the last occurrence of the letter h, as well as all the characters between them.](Day031.md)
+
+
 
 
 
