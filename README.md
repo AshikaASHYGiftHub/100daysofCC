@@ -104,5 +104,7 @@ For every number in the given range,  If the number is a multiple of 3, or it co
 
 34)[You are given a string.](Day034.md)
 
+35)[Maze Completion Using Right WallIf you adopted the "Follow the Right Wall" algorithm, you will complete Level 10. What is the JavaScript code you got?Cut and paste and assign it to the variable level_10_code.How many blocks did you have left? Assign it to the variable remaining_blocks.](Day035.md)
+
 
 
