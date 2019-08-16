@@ -102,6 +102,7 @@ For every number in the given range,  If the number is a multiple of 3, or it co
 
 33)[Given a string in which the letter h occurs at least twice, reverse the sequence of characters enclosed between the first and last occurrences of it.](Day033.md)
 
+34)[You are given a string.](Day034.md)
 
 
 
