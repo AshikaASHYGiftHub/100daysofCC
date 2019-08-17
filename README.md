@@ -113,3 +113,5 @@ Assign it to the variable remaining_blocks.](Day036.md)
 
 38)[Given a list of numbers, find and print all its elements with even indices (i.e. A[0], A[2], A[4], ...).](Day038.md)
 
+39)[Given a list of numbers, print all its even elements. Use a for-loop that iterates over the list itself and not over its indices. That is](Day039.md)
+
