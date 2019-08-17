@@ -116,3 +116,5 @@ Assign it to the variable remaining_blocks.](Day036.md)
 39)[Given a list of numbers, print all its even elements. Use a for-loop that iterates over the list itself and not over its indices. That is](Day039.md)
 
 40)[Given a list of numbers, find and print all its elements that are greater than their left neighbor.](Day040.md)
+
+41)[Given a list of numbers, determine and print the number of elements that are greater than both of their neighbors.The first and the last items of the list shouldn't be considered because they don't have two neighbors.](Day041.md)
