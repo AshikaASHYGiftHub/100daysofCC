@@ -111,4 +111,5 @@ Assign it to the variable remaining_blocks.](Day036.md)
 
 37)[Given a list of non-zero integers, find and print the first adjacent pair of elements that have the same sign. If there is no such pair, print 0.](Day037.md)
 
+38)[Given a list of numbers, find and print all its elements with even indices (i.e. A[0], A[2], A[4], ...).](Day038.md)
 
