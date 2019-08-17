@@ -118,3 +118,5 @@ Assign it to the variable remaining_blocks.](Day036.md)
 40)[Given a list of numbers, find and print all its elements that are greater than their left neighbor.](Day040.md)
 
 41)[Given a list of numbers, determine and print the number of elements that are greater than both of their neighbors.The first and the last items of the list shouldn't be considered because they don't have two neighbors.](Day041.md)
+
+42)[Given a list of numbers with all elements sorted in ascending order, determine and print the number of distinct elements in it.](Day042.md)
