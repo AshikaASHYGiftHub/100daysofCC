@@ -109,5 +109,6 @@ For every number in the given range,  If the number is a multiple of 3, or it co
 36)[Maze Completion Using Left WallIf you adopted the "Follow the Left Wall" algorithm, you will complete Level 10. What is the JavaScript code you got? Cut and paste and assign it to the variable level_10_code.How many blocks did you have left? 
 Assign it to the variable remaining_blocks.](Day036.md)
 
+37)[Given a list of non-zero integers, find and print the first adjacent pair of elements that have the same sign. If there is no such pair, print 0.](Day037.md)
 
 
