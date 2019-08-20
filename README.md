@@ -133,3 +133,4 @@ Assign it to the variable remaining_blocks.](Day036.md)
 
 48)[You are given a dictionary consisting of word pairs. Every word is a synonym of the other word in its pair. All the words in the dictionary are different.After the dictionary there's one more word given. Find a synonym for it.](Day048.md)
 
+49)[Given the text: the first line contains the number of lines, then given the lines of words. Print the word in the text that occurs most often. If there are many such words, print the one that is less in the alphabetical order.](Day049.md)
