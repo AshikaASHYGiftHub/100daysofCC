@@ -136,3 +136,5 @@ Assign it to the variable remaining_blocks.](Day036.md)
 49)[Given the text: the first line contains the number of lines, then given the lines of words. Print the word in the text that occurs most often. If there are many such words, print the one that is less in the alphabetical order.](Day049.md)
 
 50)[Given a list of countries and cities of each country, then given the names of the cities. For each city print the country in which it is located.](Day050.md)
+
+51)[Given a number n, followed by n lines of text, print all words encountered in the text, one per line, with their number of occurrences in the text. The words should be sorted in descending order according to their number of occurrences, and all words within the same frequency should be printed in lexicographical order.](Day051.md)
