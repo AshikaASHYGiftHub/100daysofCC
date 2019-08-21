@@ -140,3 +140,5 @@ Assign it to the variable remaining_blocks.](Day036.md)
 51)[Given a number n, followed by n lines of text, print all words encountered in the text, one per line, with their number of occurrences in the text. The words should be sorted in descending order according to their number of occurrences, and all words within the same frequency should be printed in lexicographical order.](Day051.md)
 
 52)[The first line contains the number of records. After that, each entry contains the name of the candidate and the number of votes they got in some state. Count the results of the elections: sum the number of votes for each candidate. Print candidates in the alphabetical order.](Day052.md)
+
+53)[Print score-based Mark List](Day053.md)
