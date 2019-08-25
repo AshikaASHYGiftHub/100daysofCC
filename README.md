@@ -144,3 +144,6 @@ Assign it to the variable remaining_blocks.](Day036.md)
 53)[Print score-based Mark List](Day053.md)
 
 54)[Write a function second_is_second_largest that will return True if the 2nd largest value is in the 2nd position. If not, return False.](Day054.md)
+
+55)[One of the core principles of any programming language is, "Don't Repeat Yourself". If you have an action that should occur many times, you can define that action once and then call that code whenever you need to carry out that action.We are already repeating ourselves in our code, so this is a good time to introduce simple functions. Functions mean less work for us as programmers, and effective use of functions results in code that is less error-prone.](Day055.md)
+
