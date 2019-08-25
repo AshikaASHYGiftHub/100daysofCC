@@ -147,3 +147,7 @@ Assign it to the variable remaining_blocks.](Day036.md)
 
 55)[One of the core principles of any programming language is, "Don't Repeat Yourself". If you have an action that should occur many times, you can define that action once and then call that code whenever you need to carry out that action.We are already repeating ourselves in our code, so this is a good time to introduce simple functions. Functions mean less work for us as programmers, and effective use of functions results in code that is less error-prone.](Day055.md)
 
+56)[Write a Python function string_rotate to generate the desired pattern. The function should accept an integer as its single argument.Input and Output Format: Input consists of a single integer that corresponds to n. Assume that 0 < n <= 26. Refer sample output for output formatting specifications.](Day056.md)
+
+57)[Write a function second_biggest_value which accepts three integers, and does the following:returns the second biggest value among the three returns “NA” if there are two or more equal values](Day057.md)
+
