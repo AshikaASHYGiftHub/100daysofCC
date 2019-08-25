@@ -142,3 +142,5 @@ Assign it to the variable remaining_blocks.](Day036.md)
 52)[The first line contains the number of records. After that, each entry contains the name of the candidate and the number of votes they got in some state. Count the results of the elections: sum the number of votes for each candidate. Print candidates in the alphabetical order.](Day052.md)
 
 53)[Print score-based Mark List](Day053.md)
+
+54)[Write a function second_is_second_largest that will return True if the 2nd largest value is in the 2nd position. If not, return False.](Day054.md)
