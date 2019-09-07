@@ -158,3 +158,11 @@ Assign it to the variable remaining_blocks.](Day036.md)
 60)[Optimize Tile Size with Constraint](Day060.md)
 
 61)[Friends of friends](Day061.md)
+
+62)[Quick Compress
+This is a favourite interview question for the Skava Company, Coimbatore.
+Variants of the same coding challenge occurs frequently in other 
+technical coding evalutions.](Day062.md)
+
+
+
