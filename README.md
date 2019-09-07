@@ -151,3 +151,5 @@ Assign it to the variable remaining_blocks.](Day036.md)
 
 57)[Write a function second_biggest_value which accepts three integers, and does the following:returns the second biggest value among the three returns “NA” if there are two or more equal values](Day057.md)
 
+58)[Cycling Among Values](Day058.md)
+
