@@ -156,3 +156,5 @@ Assign it to the variable remaining_blocks.](Day036.md)
 59)[Optimize Tile Size](Day059.md)
 
 60)[Optimize Tile Size with Constraint](Day060.md)
+
+61)[Friends of friends](Day061.md)
