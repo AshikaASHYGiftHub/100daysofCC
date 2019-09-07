@@ -153,3 +153,5 @@ Assign it to the variable remaining_blocks.](Day036.md)
 
 58)[Cycling Among Values](Day058.md)
 
+59)[Optimize Tile Size](Day059.md)
+
