@@ -8,6 +8,7 @@ A few things to know if new to Python. First, it’s a stickler with formatting.
 ```
 
 ```
+## PROGRAM
 import time #Imports a module to add a pause
 
 #Figuring out how users might respond
@@ -153,6 +154,7 @@ intro()
 ```
 
 ```
+## OUTPUT
 After a drunken night out with friends, you awaken the next morning in a thick, dank forest. Head spinning and fighting the urge to vomit, you stand and marvel at your new, unfamiliar setting. The peace quickly fades when you hear a grotesque sound emitting behind you. A slobbering orc is running towards you. You will:
   A. Grab a nearby rock and throw it at the orc
   B. Lie down and wait to be mauled
