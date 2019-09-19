@@ -164,5 +164,4 @@ This is a favourite interview question for the Skava Company, Coimbatore.
 Variants of the same coding challenge occurs frequently in other 
 technical coding evalutions.](Day062.md)
 
-
-
+63)[MINI PROJECT Text based adventure game ](MiniProject.md)
