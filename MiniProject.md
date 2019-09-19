@@ -1,14 +1,16 @@
 ## TEXT BASED ADVENTURE GAME
 
-```
+
 ## EXAMPLE
+```
 The first is a text-based game that, depending on the users’ choices, branches into different scenarios. Think of the old Dungeons and Dragons game, but digital. Or the old Zork games. I know, I know. Who cares about text-based games when modern game graphics are bordering on reality. Well, not everyone fits the same mold. Recently, text adventure games have made a huge comeback. The second example is a quiz game that calculates the users’ final score—mainly building from the first example. Both are simple examples to help build knowledge and understanding of Python.
 
 A few things to know if new to Python. First, it’s a stickler with formatting. Meaning, make sure your indents are nested correctly. Second, this is based on version 3 of Python. Lastly, to get started with the language on your own computer, and not use the emulator below, you will want to visit Python’s website for more information.
 ```
 
-```
+
 ## PROGRAM
+```
 import time #Imports a module to add a pause
 
 #Figuring out how users might respond
@@ -153,8 +155,9 @@ def option_town():
 intro()
 ```
 
-```
+
 ## OUTPUT
+```
 After a drunken night out with friends, you awaken the next morning in a thick, dank forest. Head spinning and fighting the urge to vomit, you stand and marvel at your new, unfamiliar setting. The peace quickly fades when you hear a grotesque sound emitting behind you. A slobbering orc is running towards you. You will:
   A. Grab a nearby rock and throw it at the orc
   B. Lie down and wait to be mauled
