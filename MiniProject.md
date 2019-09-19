@@ -9,7 +9,7 @@ A few things to know if new to Python. First, it’s a stickler with formatting.
 ```
 
 
-## PROGRAM
+## SOURCE CODE
 ```
 import time #Imports a module to add a pause
 
