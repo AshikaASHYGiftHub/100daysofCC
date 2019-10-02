@@ -177,3 +177,5 @@ technical coding evalutions.](Day062.md)
 68)[Transpose a Matrix](Day068.md)
 
 69)[Convert Nested Lists to Matrix](Day069.md)
+
+70)[Sculpture Logic](Day070.md)
