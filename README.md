@@ -171,3 +171,5 @@ technical coding evalutions.](Day062.md)
 65)[self_converge](Day065.md)
 
 66)[Make Ladoos](Day066.md)
+
+67)['abc' in the Centre?](Day067.md)
