@@ -173,3 +173,5 @@ technical coding evalutions.](Day062.md)
 66)[Make Ladoos](Day066.md)
 
 67)['abc' in the Centre?](Day067.md)
+
+68)[Transpose a Matrix](Day068.md)
